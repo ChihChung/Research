@@ -3,6 +3,9 @@
 * [How does delete[] “know” the size of the operand array?](https://stackoverflow.com/questions/197675/how-does-delete-know-the-size-of-the-operand-array)
 * [FastMM](https://sourceforge.net/projects/fastmm/)
 
+## Cool Programmer
+* [Tom Forsyth](http://tomforsyth1000.github.io/)
+
 # Research
 
 ## Cool Researcher
