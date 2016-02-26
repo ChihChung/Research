@@ -5,6 +5,7 @@
 
 ## Cool Programmer
 * [Tom Forsyth](http://tomforsyth1000.github.io/)
+  * [Scene Graphs - just say no](http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BScene%20Graphs%20-%20just%20say%20no%5D%5D)
 
 # Research
 
