@@ -31,6 +31,7 @@
 
 ###Computational Geometry
 * Fast 3D Triangle-Box Overlap Testing (2011) by Tomas Akenine-M¨oller
+* [Generate 2D cross-section polygon from 3D mesh](http://stackoverflow.com/questions/2797431/generate-2d-cross-section-polygon-from-3d-mesh)
 
 ## Library / Source Code
 * [Tiny obj loader](http://syoyo.github.io/tinyobjloader/)
