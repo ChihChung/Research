@@ -3,6 +3,11 @@
 * [How does delete[] “know” the size of the operand array?](https://stackoverflow.com/questions/197675/how-does-delete-know-the-size-of-the-operand-array)
 * [FastMM](https://sourceforge.net/projects/fastmm/)
 
+## Multithrea game engine design
+* [Designing the Framework of a Parallel Game Engine](https://software.intel.com/en-us/articles/designing-the-framework-of-a-parallel-game-engine)
+* [Multi-threaded game (engine) design resources?](http://gamedev.stackexchange.com/questions/2116/multi-threaded-game-engine-design-resources)
+* [Multi-Threading for Game Development](https://www.youtube.com/watch?v=K9oG4t-0mlE)
+
 ## Cool Programmer
 * [Tom Forsyth](http://tomforsyth1000.github.io/)
   * [Scene Graphs - just say no](http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BScene%20Graphs%20-%20just%20say%20no%5D%5D)
