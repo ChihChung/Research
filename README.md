@@ -7,6 +7,7 @@
 * [Designing the Framework of a Parallel Game Engine](https://software.intel.com/en-us/articles/designing-the-framework-of-a-parallel-game-engine)
 * [Multi-threaded game (engine) design resources?](http://gamedev.stackexchange.com/questions/2116/multi-threaded-game-engine-design-resources)
 * [Multi-Threading for Game Development](https://www.youtube.com/watch?v=K9oG4t-0mlE)
+* Parallelizing the Naughty Dog engine using fibers - Christian Gyrling, Lead Programmer, Naughty Dog [pptx](http://www.swedishcoding.com/wp-content/uploads/2015/03/parallelizing_the_naughty_dog_engine_using_fibers.pptx) [pdf](http://www.swedishcoding.com/wp-content/uploads/2015/03/parallelizing_the_naughty_dog_engine_using_fibers.pdf)
 
 ## Cool Programmer
 * [Tom Forsyth](http://tomforsyth1000.github.io/)
