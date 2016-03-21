@@ -28,7 +28,7 @@
 
 ## Cool Researcher
 
-* [Martin de Lasa](http://www.dgp.toronto.edu/~mdelasa/)
+* [Martin de Lasa](http://www.dgp.toronto.edu/~mdelasa/)[Google Scholar](https://scholar.google.com/citations?user=CqqvouwAAAAJ&hl=zh-TW)
 * [Daniele Panozzo](http://people.inf.ethz.ch/~dpanozzo/)
 * [Matthias Nießner](http://www.graphics.stanford.edu/~niessner/index.html)
 
