@@ -30,6 +30,7 @@
 
 * [Martin de Lasa](http://www.dgp.toronto.edu/~mdelasa/)
 * [Daniele Panozzo](http://people.inf.ethz.ch/~dpanozzo/)
+* [Matthias Nießner](http://www.graphics.stanford.edu/~niessner/index.html)
 
 ## Cool Lab
 * [Interactive Geometry Lab](http://igl.ethz.ch/)
