@@ -24,6 +24,10 @@
 ## Data-Oriented Design
 * [Data-Oriented Design Now And In The Future](http://gamesfromwithin.com/data-oriented-design-now-and-in-the-future)
 
+## Ray Tracing
+* [Ray Tracing in One Weekend](http://www.amazon.com/gp/product/B01B5AODD8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B5AODD8&linkCode=as2&tag=inonwe09-20&linkId=OPNJXXJY2IBCMEGE)[blog](http://in1weekend.blogspot.tw/2016/01/ray-tracing-in-one-weekend.html)
+* [Ray Tracey's blog](http://raytracey.blogspot.tw/)
+
 # Research
 
 ## Cool Researcher
