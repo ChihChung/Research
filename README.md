@@ -39,6 +39,7 @@
 * [Daniele Panozzo](http://people.inf.ethz.ch/~dpanozzo/)
 * [Matthias Nießner](http://www.graphics.stanford.edu/~niessner/index.html)
 * [Keenan Crane](http://www.cs.cmu.edu/~kmcrane/)
+* [Stelian Coros](http://www.cs.cmu.edu/~scoros/index.html)
 
 ## Cool Lab
 * [Interactive Geometry Lab](http://igl.ethz.ch/)
