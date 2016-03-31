@@ -38,6 +38,7 @@
 * [Martin de Lasa](http://www.dgp.toronto.edu/~mdelasa/)[Google Scholar](https://scholar.google.com/citations?user=CqqvouwAAAAJ&hl=zh-TW)
 * [Daniele Panozzo](http://people.inf.ethz.ch/~dpanozzo/)
 * [Matthias Nießner](http://www.graphics.stanford.edu/~niessner/index.html)
+* [Keenan Crane](http://www.cs.cmu.edu/~kmcrane/)
 
 ## Cool Lab
 * [Interactive Geometry Lab](http://igl.ethz.ch/)
@@ -55,6 +56,10 @@
 * [3D Mesh Voxelizer Test (Video)](https://www.youtube.com/watch?v=GHY7qK0w1OE)
 
 ###Computational Geometry
+* Delta mush: smoothing deformations while preserving detail()
+  * [Voodoo](https://www.fxguide.com/featured/voodoo-magic/)
+  * [Maya implement demo](https://vimeo.com/103666815)
+  * [Fabric Engine](https://vimeo.com/103717638)
 * Fast 3D Triangle-Box Overlap Testing (2011) by Tomas Akenine-M¨oller
 * [Generate 2D cross-section polygon from 3D mesh](http://stackoverflow.com/questions/2797431/generate-2d-cross-section-polygon-from-3d-mesh)
 * [intersectPlaneMesh](http://www.mathworks.com/matlabcentral/fileexchange/24484-geom3d/content/geom3d/meshes3d/intersectPlaneMesh.m)
