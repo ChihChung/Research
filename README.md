@@ -56,6 +56,10 @@
 ### Voxelization
 * [3D Mesh Voxelizer Test (Video)](https://www.youtube.com/watch?v=GHY7qK0w1OE)
 
+### Cloth
+* Constrainable Multigrid for Cloth
+* A Deformation Transformer for Real-Time Cloth Animation
+
 ###Computational Geometry
 * Delta mush: smoothing deformations while preserving detail()
   * [Voodoo](https://www.fxguide.com/featured/voodoo-magic/)
