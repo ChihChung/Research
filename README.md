@@ -41,6 +41,7 @@
 * [Keenan Crane](http://www.cs.cmu.edu/~kmcrane/)
 * [Stelian Coros](http://www.cs.cmu.edu/~scoros/index.html)
 * [Rodolphe Vaillant](http://rodolphe-vaillant.fr/) - Mesh deformations, Real-time character animation and skinning
+* Ladislav Kavan([Youtube](https://www.youtube.com/user/kavanl1/featured))
 
 ## Cool Lab
 * [Interactive Geometry Lab](http://igl.ethz.ch/)
