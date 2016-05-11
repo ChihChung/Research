@@ -40,6 +40,7 @@
 * [Matthias Nießner](http://www.graphics.stanford.edu/~niessner/index.html)
 * [Keenan Crane](http://www.cs.cmu.edu/~kmcrane/)
 * [Stelian Coros](http://www.cs.cmu.edu/~scoros/index.html)
+* [Rodolphe Vaillant](http://rodolphe-vaillant.fr/) - Mesh deformations, Real-time character animation and skinning
 
 ## Cool Lab
 * [Interactive Geometry Lab](http://igl.ethz.ch/)
