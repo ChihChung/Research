@@ -2,6 +2,8 @@
 
 * [How does delete[] “know” the size of the operand array?](https://stackoverflow.com/questions/197675/how-does-delete-know-the-size-of-the-operand-array)
 * [FastMM](https://sourceforge.net/projects/fastmm/)
+* [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
+* [Deoptimizing a C++ program](http://stackoverflow.com/questions/37361145/deoptimizing-a-c-program)
 
 ## Multithread game engine design
 * [Designing the Framework of a Parallel Game Engine](https://software.intel.com/en-us/articles/designing-the-framework-of-a-parallel-game-engine)
