@@ -80,6 +80,11 @@
 * [the Journal ofComputer Graphics Techniques](http://jcgt.org/)
 * [Skinning: Real-time Shape Deformation](http://www.skinning.org/)
 
+### Walk
+* [Adaptive Walking Animation](https://classes.soe.ucsc.edu/cmps162/Spring12/proj/emarable/proj/index_files/report.pdf)
+* Locomotion Skills for Simulated Quadrupeds[(Voideo)](https://www.youtube.com/watch?v=dRthdBr46cs)
+* [Locomotion for crowd animation](http://www.mprazak.info/wp-content/uploads/2014/06/dissertation-small.pdf)
+
 ## Library / Source Code
 * [Tiny obj loader](http://syoyo.github.io/tinyobjloader/)
 * [libigl](https://github.com/libigl/libigl)
