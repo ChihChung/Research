@@ -48,6 +48,7 @@
 
 ## Cool Lab
 * [Interactive Geometry Lab](http://igl.ethz.ch/)
+* [Visual Comoputing Lab](http://vcg.isti.cnr.it/index.php)
 
 ## Papers / Videos
 
