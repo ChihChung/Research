@@ -23,6 +23,7 @@
   * [Scene Graphs - just say no](http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BScene%20Graphs%20-%20just%20say%20no%5D%5D)
 * [Christian Gyrling](http://www.swedishcoding.com/)
 * [Rune Skovbo Johansem](http://runevision.com/)
+* [Jonathan Beard](http://www.jonathanbeard.io/)
 
 ## Data-Oriented Design
 * [Data-Oriented Design Now And In The Future](http://gamesfromwithin.com/data-oriented-design-now-and-in-the-future)
