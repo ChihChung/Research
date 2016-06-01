@@ -94,6 +94,7 @@
   
 ## Interesting Site
 * [Mesh Repairing Software on the Web](http://meshrepair.org/)
+* [The Journal of Computer Graphics Techniques](http://jcgt.org/)
 
 #Human Anatomy
 * [Human Anatomy Fundamentals: Basic Body Proportions](http://design.tutsplus.com/articles/human-anatomy-fundamentals-basic-body-proportions--vector-18254)
