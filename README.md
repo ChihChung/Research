@@ -100,3 +100,5 @@
 * [Human Anatomy Fundamentals: Basic Body Proportions](http://design.tutsplus.com/articles/human-anatomy-fundamentals-basic-body-proportions--vector-18254)
 * [Human Anatomy Fundamentals: Advanced Body Proportions](http://design.tutsplus.com/articles/human-anatomy-fundamentals-advanced-body-proportions--vector-19869)
 
+#OpenGL
+* [What is the role of glBindVertexArrays vs glBindBuffer and what is their relationship?](http://stackoverflow.com/questions/21652546/what-is-the-role-of-glbindvertexarrays-vs-glbindbuffer-and-what-is-their-relatio)
