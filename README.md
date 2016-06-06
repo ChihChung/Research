@@ -66,6 +66,9 @@
 
 ### Voxelization
 * [3D Mesh Voxelizer Test (Video)](https://www.youtube.com/watch?v=GHY7qK0w1OE)
+* 
+### Modeling
+* [Computational Bodybuilding: Anatomically-based Modeling of Human Bodies](https://www.cs.utah.edu/~ladislav/saito15computational/saito15computational.html) (2015) by Shunsuke Saito, Zi-Ye Zhou and Ladislav Kavan
 
 ### Cloth
 * Constrainable Multigrid for Cloth
