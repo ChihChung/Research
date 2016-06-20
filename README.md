@@ -1,3 +1,7 @@
+#Blog
+* [Gazzo.vrv](http://donw.io/)
+  *[Reflection in C++, Part 1: Introduction](http://donw.io/post/reflection-cpp-1/) ([HackerNews](https://news.ycombinator.com/item?id=11935059))
+
 #Programming
 
 * [How does delete[] “know” the size of the operand array?](https://stackoverflow.com/questions/197675/how-does-delete-know-the-size-of-the-operand-array)
