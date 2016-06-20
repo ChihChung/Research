@@ -1,6 +1,6 @@
 #Blog
 * [Gazzo.vrv](http://donw.io/)
-  *[Reflection in C++, Part 1: Introduction](http://donw.io/post/reflection-cpp-1/) ([HackerNews](https://news.ycombinator.com/item?id=11935059))
+  * [Reflection in C++, Part 1: Introduction](http://donw.io/post/reflection-cpp-1/) ([HackerNews](https://news.ycombinator.com/item?id=11935059))
 
 #Programming
 
