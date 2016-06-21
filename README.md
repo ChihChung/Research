@@ -1,6 +1,8 @@
 #Blog
 * [Gazzo.vrv](http://donw.io/)
   * [Reflection in C++, Part 1: Introduction](http://donw.io/post/reflection-cpp-1/) ([HackerNews](https://news.ycombinator.com/item?id=11935059))
+* [thoughts from the red planet](http://nathanmarz.com/)
+  * [You should blog even if you have no readers](http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html) 
 
 #Programming
 
