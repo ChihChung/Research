@@ -9,11 +9,11 @@
   * [You should blog even if you have no readers](http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html) 
 
 #Programming
-
 * [How does delete[] “know” the size of the operand array?](https://stackoverflow.com/questions/197675/how-does-delete-know-the-size-of-the-operand-array)
 * [FastMM](https://sourceforge.net/projects/fastmm/)
 * [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 * [Deoptimizing a C++ program](http://stackoverflow.com/questions/37361145/deoptimizing-a-c-program)
+* [Practical Guide to Bare Metal C++](https://www.gitbook.com/book/arobenko/bare_metal_cpp/details)
 
 ## Multithread game engine design
 * [Designing the Framework of a Parallel Game Engine](https://software.intel.com/en-us/articles/designing-the-framework-of-a-parallel-game-engine)
