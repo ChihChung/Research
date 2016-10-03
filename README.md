@@ -82,6 +82,7 @@
 
 ### Voxelization
 * [3D Mesh Voxelizer Test (Video)](https://www.youtube.com/watch?v=GHY7qK0w1OE)
+* [CUDA Voxelizer](http://www.forceflow.be/2016/10/02/cuda-voxelizer-v0-1/)
 
 ### Modeling
 * [Computational Bodybuilding: Anatomically-based Modeling of Human Bodies](https://www.cs.utah.edu/~ladislav/saito15computational/saito15computational.html) (2015) by Shunsuke Saito, Zi-Ye Zhou and Ladislav Kavan
