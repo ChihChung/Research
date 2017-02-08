@@ -37,6 +37,7 @@
 * [Christian Gyrling](http://www.swedishcoding.com/)
 * [Rune Skovbo Johansem](http://runevision.com/)
 * [Jonathan Beard](http://www.jonathanbeard.io/)
+* [Wei Wang](http://weiwangtd.com/)
 
 ## Data-Oriented Design
 * [Data-Oriented Design Now And In The Future](http://gamesfromwithin.com/data-oriented-design-now-and-in-the-future)
@@ -66,6 +67,7 @@
 * [Stelian Coros](http://www.cs.cmu.edu/~scoros/index.html)
 * [Rodolphe Vaillant](http://rodolphe-vaillant.fr/) - Mesh deformations, Real-time character animation and skinning
 * [Ladislav Kavan](https://www.cs.utah.edu/~ladislav/)([Youtube](https://www.youtube.com/user/kavanl1/featured)) - Deformation modeling, applied geometry
+
 
 ## Cool Lab
 * [Interactive Geometry Lab](http://igl.ethz.ch/)
