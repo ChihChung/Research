@@ -134,3 +134,6 @@
 
 #Game
 * [VoxelQuest](http://www.voxelquest.com/)
+
+#Math
+* [Convert quaternion to euler rotations](http://bediyap.com/programming/convert-quaternion-to-euler-rotations/)
