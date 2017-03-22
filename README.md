@@ -38,6 +38,7 @@
 * [Rune Skovbo Johansem](http://runevision.com/)
 * [Jonathan Beard](http://www.jonathanbeard.io/)
 * [Wei Wang](http://weiwangtd.com/)
+* [Sean Parent](http://sean-parent.stlab.cc/)
 
 ## Data-Oriented Design
 * [Data-Oriented Design Now And In The Future](http://gamesfromwithin.com/data-oriented-design-now-and-in-the-future)
