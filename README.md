@@ -1,3 +1,6 @@
+#Note
+* [Matrices, Handedness, Pre and Post Multiplication, Row vs Column Major, and Notations](http://seanmiddleditch.com/matrices-handedness-pre-and-post-multiplication-row-vs-column-major-and-notations/)
+
 #Engine
 * [GODOT](http://www.godotengine.org/)
 * [Lumberyard](https://aws.amazon.com/tw/lumberyard/)
