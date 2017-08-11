@@ -1,9 +1,6 @@
 # Note
 * [Matrices, Handedness, Pre and Post Multiplication, Row vs Column Major, and Notations](http://seanmiddleditch.com/matrices-handedness-pre-and-post-multiplication-row-vs-column-major-and-notations/)
 
-# C/C++
-* [IT Hare on Soft.ware](http://ithare.com/)
-
 # Engine
 * [GODOT](http://www.godotengine.org/)
 * [Lumberyard](https://aws.amazon.com/tw/lumberyard/)
@@ -24,6 +21,7 @@
 * [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 * [Deoptimizing a C++ program](http://stackoverflow.com/questions/37361145/deoptimizing-a-c-program)
 * [Practical Guide to Bare Metal C++](https://www.gitbook.com/book/arobenko/bare_metal_cpp/details)
+* [IT Hare on Soft.ware](http://ithare.com/)
 
 ## Multithread game engine design
 * [Designing the Framework of a Parallel Game Engine](https://software.intel.com/en-us/articles/designing-the-framework-of-a-parallel-game-engine)
