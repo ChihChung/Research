@@ -1,12 +1,15 @@
-#Note
+# Note
 * [Matrices, Handedness, Pre and Post Multiplication, Row vs Column Major, and Notations](http://seanmiddleditch.com/matrices-handedness-pre-and-post-multiplication-row-vs-column-major-and-notations/)
 
-#Engine
+# C/C++
+* [IT Hare on Soft.ware](http://ithare.com/)
+
+# Engine
 * [GODOT](http://www.godotengine.org/)
 * [Lumberyard](https://aws.amazon.com/tw/lumberyard/)
 * [About Terathon Software](http://terathon.com/)
 
-#Blog
+# Blog
 * [Gazzo.vrv](http://donw.io/)
   * [Reflection in C++, Part 1: Introduction](http://donw.io/post/reflection-cpp-1/) ([HackerNews](https://news.ycombinator.com/item?id=11935059))
   * [Skeletal Animation Looping with Autocorrelation](http://donw.io/post/animation-autocorrelation/)
@@ -15,7 +18,7 @@
 * [Riot Games Enginning](https://engineering.riotgames.com/)
 * [Petr Zemek](https://blog.petrzemek.net/) - C++
 
-#Programming
+# Programming
 * [How does delete[] “know” the size of the operand array?](https://stackoverflow.com/questions/197675/how-does-delete-know-the-size-of-the-operand-array)
 * [FastMM](https://sourceforge.net/projects/fastmm/)
 * [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
@@ -130,15 +133,15 @@
 * [Mesh Repairing Software on the Web](http://meshrepair.org/)
 * [The Journal of Computer Graphics Techniques](http://jcgt.org/)
 
-#Human Anatomy
+# Human Anatomy
 * [Human Anatomy Fundamentals: Basic Body Proportions](http://design.tutsplus.com/articles/human-anatomy-fundamentals-basic-body-proportions--vector-18254)
 * [Human Anatomy Fundamentals: Advanced Body Proportions](http://design.tutsplus.com/articles/human-anatomy-fundamentals-advanced-body-proportions--vector-19869)
 
-#OpenGL
+# OpenGL
 * [What is the role of glBindVertexArrays vs glBindBuffer and what is their relationship?](http://stackoverflow.com/questions/21652546/what-is-the-role-of-glbindvertexarrays-vs-glbindbuffer-and-what-is-their-relatio) 
 
-#Game
+# Game
 * [VoxelQuest](http://www.voxelquest.com/)
 
-#Math
+# Math
 * [Convert quaternion to euler rotations](http://bediyap.com/programming/convert-quaternion-to-euler-rotations/)
