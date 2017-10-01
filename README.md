@@ -14,6 +14,7 @@
   * [You should blog even if you have no readers](http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html) 
 * [Riot Games Enginning](https://engineering.riotgames.com/)
 * [Petr Zemek](https://blog.petrzemek.net/) - C++
+* [HIGHLY SCALABLE BLOG](https://highlyscalable.wordpress.com/)
 
 # Programming
 * [How does delete[] “know” the size of the operand array?](https://stackoverflow.com/questions/197675/how-does-delete-know-the-size-of-the-operand-array)
