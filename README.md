@@ -14,6 +14,7 @@
   * [You should blog even if you have no readers](http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html) 
 * [Riot Games Enginning](https://engineering.riotgames.com/)
 * [Petr Zemek](https://blog.petrzemek.net/) - C++
+* [Olve Maudal](https://olvemaudal.com/) - C/C++
 * [HIGHLY SCALABLE BLOG](https://highlyscalable.wordpress.com/)
 
 # Programming
