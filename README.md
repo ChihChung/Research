@@ -64,7 +64,7 @@
 ## Interesting Project
 * [Gordon Lee](https://sites.google.com/site/endlosnull/projects)
 
-# Research
+# Computer Graphics Research
 
 ## Cool Researcher
 
@@ -81,16 +81,25 @@
 * [Interactive Geometry Lab](http://igl.ethz.ch/)
 * [Visual Comoputing Lab](http://vcg.isti.cnr.it/index.php)
 
-## Papers / Videos
 
-### Auto Skin
+## Papers / Videos / Course Note
+### Geometry Processing - Surface Reconstruction
+* [Dynamic 2D/3D Registration](http://lgg.epfl.ch/publications/2014/2d3dRegistration/)
+* [State of Art in Surface Reconstruction from Point Clouds](https://gfx.uvic.ca/pubs/2014/berger_eg14/index.md)
+* [Point-based Graphics Resource](http://kesen.realtimerendering.com/PointBasedPaper.html)
+* [Point Based Graphics - State of the Art and Recent Advances, SIG'09](http://webstaff.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Siggraph09/courses/point-based-graphics.pdf)
+* [Survey of Methods in Computer Graphics](http://www.cs.jhu.edu/~misha/Fall13b/)
 
+### Geometry Processing - Real-time 3D Reconstruction
+* [Real-time 3D Reconstruction at Scale using Voxel Hashing, SIGA'13](http://www.graphics.stanford.edu/~niessner/papers/2013/4hashing/niessner2013hashing.pdf)
+* [Combining Inertial Navigation and ICP for Real-time 3D Surface Reconstruction, EG'14](http://www.graphics.stanford.edu/~niessner/papers/2014/0inertia/niessner2014combining.pdf)
+* [Matthias Nießner](http://www.niessnerlab.org/)
+
+### Auto Skin / Skin Deformation
 * Geodesic Voxel Binding for Production Character Meshes (2013) by Olivier Dionne, Martin de Lasa
 * Bounded Biharmonic Weights for Real-Time Deformation(2011) by Alec Jacobson, Ilya Baran, Jovan Popovic´ and Olga Sorkine
 * Automatic Rigging and Animation of 3D Characters (2007) by Ilya Baran, Jovan Popovi´
-  * Heat Map
-
-### Skin Deformation
+* Heat Map
 * [Elastic Implicit Skinning: a Robust Iso-Surface Tracking for Interactive Character Skinning](http://rodolphe-vaillant.fr/permalinks/elastic_implicit_skinning_project.php) (2014) by Rodolphe Vaillant1, Gaël Guennebaud
 * [Implicit Skinning: Real-Time Skin Deformation with Contact Modeling](http://rodolphe-vaillant.fr/permalinks/implicit_skinning_project.php)(2013) by Rodolphe Vaillant
 * [Efficient elasticity for character skinning with contact and collisions](https://www.disneyresearch.com/project/elasticity_characterskinning/)(2011)
@@ -108,7 +117,7 @@
 * Constrainable Multigrid for Cloth
 * A Deformation Transformer for Real-Time Cloth Animation
 
-###Computational Geometry
+### Computational Geometry
 * Delta mush: smoothing deformations while preserving detail()
   * [Voodoo](https://www.fxguide.com/featured/voodoo-magic/)
   * [Maya implement demo](https://vimeo.com/103666815)
@@ -145,3 +154,4 @@
 
 # Math
 * [Convert quaternion to euler rotations](http://bediyap.com/programming/convert-quaternion-to-euler-rotations/)
+
