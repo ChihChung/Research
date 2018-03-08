@@ -96,14 +96,14 @@
 * [Matthias Nießner](http://www.niessnerlab.org/)
 
 ### Auto Skin / Skin Deformation
-* Geodesic Voxel Binding for Production Character Meshes (2013) by Olivier Dionne, Martin de Lasa
-* Bounded Biharmonic Weights for Real-Time Deformation(2011) by Alec Jacobson, Ilya Baran, Jovan Popovic´ and Olga Sorkine
-* Automatic Rigging and Animation of 3D Characters (2007) by Ilya Baran, Jovan Popovi´
 * Heat Map
-* [Elastic Implicit Skinning: a Robust Iso-Surface Tracking for Interactive Character Skinning](http://rodolphe-vaillant.fr/permalinks/elastic_implicit_skinning_project.php) (2014) by Rodolphe Vaillant1, Gaël Guennebaud
-* [Implicit Skinning: Real-Time Skin Deformation with Contact Modeling](http://rodolphe-vaillant.fr/permalinks/implicit_skinning_project.php)(2013) by Rodolphe Vaillant
+* Automatic Rigging and Animation of 3D Characters (2007) by Ilya Baran, Jovan Popovi´
+* Bounded Biharmonic Weights for Real-Time Deformation(2011) by Alec Jacobson, Ilya Baran, Jovan Popovic´ and Olga Sorkine
 * [Efficient elasticity for character skinning with contact and collisions](https://www.disneyresearch.com/project/elasticity_characterskinning/)(2011)
-* [Fast Simulation of Skeleton-Driven Deformable Body Characters](http://graphics.cs.cmu.edu/projects/fastsimuldbody/fastsimuldbody.htm)
+* [Fast Simulation of Skeleton-Driven Deformable Body Characters](http://graphics.cs.cmu.edu/projects/fastsimuldbody/fastsimuldbody.htm)(2011)
+* Geodesic Voxel Binding for Production Character Meshes (2013) by Olivier Dionne, Martin de Lasa
+* [Implicit Skinning: Real-Time Skin Deformation with Contact Modeling](http://rodolphe-vaillant.fr/permalinks/implicit_skinning_project.php)(2013) by Rodolphe Vaillant
+* [Elastic Implicit Skinning: a Robust Iso-Surface Tracking for Interactive Character Skinning](http://rodolphe-vaillant.fr/permalinks/elastic_implicit_skinning_project.php) (2014) by Rodolphe Vaillant1, Gaël Guennebaud
 
 ### Voxelization
 * [3D Mesh Voxelizer Test (Video)](https://www.youtube.com/watch?v=GHY7qK0w1OE)
