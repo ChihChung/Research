@@ -101,8 +101,9 @@
 * Bounded Biharmonic Weights for Real-Time Deformation(2011) by Alec Jacobson, Ilya Baran, Jovan Popovic´ and Olga Sorkine
 * [Efficient elasticity for character skinning with contact and collisions](https://www.disneyresearch.com/project/elasticity_characterskinning/)(2011)
 * [Fast Simulation of Skeleton-Driven Deformable Body Characters](http://graphics.cs.cmu.edu/projects/fastsimuldbody/fastsimuldbody.htm)(2011)
+* [Physically-Based Character Skinning](http://www.interactive-graphics.de/index.php/research/31-physically-based-character-skinning) (2013) by Crispin Deul and Jan Bender
 * Geodesic Voxel Binding for Production Character Meshes (2013) by Olivier Dionne, Martin de Lasa
-* [Implicit Skinning: Real-Time Skin Deformation with Contact Modeling](http://rodolphe-vaillant.fr/permalinks/implicit_skinning_project.php)(2013) by Rodolphe Vaillant
+* [Implicit Skinning: Real-Time Skin Deformation with Contact Modeling](http://rodolphe-vaillant.fr/permalinks/implicit_skinning_project.php) (2013) by Rodolphe Vaillant
 * [Elastic Implicit Skinning: a Robust Iso-Surface Tracking for Interactive Character Skinning](http://rodolphe-vaillant.fr/permalinks/elastic_implicit_skinning_project.php) (2014) by Rodolphe Vaillant1, Gaël Guennebaud
 
 ### Voxelization
