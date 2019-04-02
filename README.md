@@ -27,7 +27,7 @@
 
 ## C++ Numerical error issue
 * [Stability in Numerical Programming: An Introduction](https://www.youtube.com/watch?v=amez0WdSJX8) - Robert P. Goddard, Ph.D.
-* [Understanding and Tracing Numerical Errors in C++](http://www.dtecta.com/files/GDC19_VanDenBergen_Gino_Math_Tut.pdf) - Gino van den Bergen
+* [Understanding and Tracing Numerical Errors in C++](http://www.dtecta.com/files/GDC19_VanDenBergen_Gino_Math_Tut.pdf)(GDC19) - Gino van den Bergen
 
 ## Multithread game engine design
 * [Designing the Framework of a Parallel Game Engine](https://software.intel.com/en-us/articles/designing-the-framework-of-a-parallel-game-engine)
